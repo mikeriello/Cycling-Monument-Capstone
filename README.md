@@ -57,7 +57,7 @@ To more easily communicate the Key Findings of my analysis, I've included both a
 + Paris-Roubaix was the Monument with the lowest PCS ProfileScores and Vertical Gain; however, terrain is the focus in this race. The amount of Cobblestones and Cycleways set this race apart from the others. Windspeed is to the advantage of riders, e.g., most years feature a tailwind of 15 to 16 km/h.
 + Ronde van Vlaanderen includes similar low PCS ProfileScores and Vertical Gain; however, Cobblestones play a big role in the race, as do the sharp and steep climbs. Additionally, most years feature a strong headwind 15 to 16 km/h for the majority of the route.
 
-![Monument Tier List](images/Monument Tier List.png)
+![Monument Tier List](https://github.com/mikeriello/Cycling-Monument-Capstone/blob/main/images/Monument%20Tier%20List.png)
 
 ## Future Research
 For this specific project, there is space in the analysis to identify and label climbs as well as Cobblestone and Cycleway sections in the GPX files and map visualizations. This would allow for a stronger conclusion to be made when quantifying the difficulty of these terrain types. Also, expanding the sample size to include one-day races from less traditional cycling nations could uncover events that are just as challenging, if not more so. 
