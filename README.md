@@ -15,7 +15,6 @@ As a lifelong cycling and amateur racer, I've long been aware of and interested 
 My aim was to determine which of the Monuments (from 2017 - 2023) was the hardest in terms of **race distance**, **vertical gain**, **windspeed**, and **terrain** or **course features**.
 
 ## Approach
-(Describe the methodology, tools, and techniques used in your analysis.)
 Project planning began with the discovery of [Bram Janseens](#) et al.'s research, *[Geospatial Road Cycling Race Results Data Set](https://arxiv.org/pdf/2410.09055)*. I've included the study's abstract below, but essentially, their aim was to push the envelope — so to speak — on the field of cycling analytics by marrying the results of thousands of professional road races across Men's and Women's Junior, Continental Pro, and World Tour categorizations with detailed geographic information about the courses, specifically route composition as defined by the number of meters of Access Road, Alpine, Asphalt, Cobblestones, Compacted Gravel, Cycleway, Path, Paved, Road, Singletrack, State Road, and Street surface types. 
 
 >> The field of cycling analytics has only recently started to develop due to limited access to open  
